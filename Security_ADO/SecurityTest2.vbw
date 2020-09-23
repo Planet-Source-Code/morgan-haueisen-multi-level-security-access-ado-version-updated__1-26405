@@ -1,0 +1,9 @@
+cfSecurityManage = 123, 103, 570, 513, CZ, 0, 0, 0, 0, C
+cfSecurityLogin = 116, 149, 563, 559, CZ, 0, 0, 0, 0, C
+frmTestForm = 206, 125, 653, 535, C, 0, 0, 0, 0, C
+modSecurity = 123, 129, 570, 513, CZ
+frmViewDatabase = 96, 103, 543, 681, C, 0, 0, 0, 0, C
+clsADOConnect = 96, 103, 543, 681, C
+clsADORecordset = 96, 103, 543, 681, CZ
+cfSecurityGroups = 102, 103, 549, 681, C, 0, 0, 0, 0, C
+clsSecurity = 102, 103, 549, 681, C

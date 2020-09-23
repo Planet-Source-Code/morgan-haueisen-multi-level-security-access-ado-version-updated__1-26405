@@ -1,0 +1,6 @@
+frmGetSecurityFile = 102, 103, 549, 681, C, 0, 0, 0, 0, C
+clsSecurity = 102, 103, 549, 681, C
+cfSecurityGroups = 102, 103, 549, 681, C, 0, 0, 0, 0, C
+modSecurity = 102, 103, 549, 681, C
+clsADOConnect = 0, 0, 0, 0, C
+clsADORecordset = 0, 0, 0, 0, C
